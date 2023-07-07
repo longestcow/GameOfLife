@@ -28,7 +28,7 @@ press e to erase cells (set state to 0)
 press o to toggle overpopulation rule (set to true as default)  
 press u to toggle underpopulation rule (set to true as default)  
 
-[link to main code file]()
+[link to main code file](https://github.com/longestcow/GameOfLife/blob/main/src/GoL.java)
 
 
 
