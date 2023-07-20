@@ -20,6 +20,7 @@ this gives rise to cool patterns like the ones below -
 2. Any live cell with two or three live neighbours lives on to the next generation.  
 3. Any live cell with more than three live neighbours dies, as if by overpopulation.  
 4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.  
+(in this project's context, "death" means the state being decremented by 1, while becoming a "live" cell means the state being incremented by 1)
   
 # controls
 use space to toggle between paused and playing (you can only draw when the game is paused)  
